@@ -8,7 +8,7 @@ def fecha():
 janela = Tk()
 janela.geometry('470x200')
 janela.config(bg='#00BFFF', padx=10, pady=10)
-janela.iconbitmap(bitmap=r'tkinter\primeiro_app.py\tech.ico')
+janela.iconbitmap(bitmap=r'Python\Primeiro_aplicativo_cadastro\tech.ico')
 janela.title('Exemplo de tela de cadastro')
 
 

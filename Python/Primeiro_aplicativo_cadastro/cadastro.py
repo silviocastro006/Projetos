@@ -7,7 +7,7 @@ def cadastro():
     jan_cadas.geometry('330x230')
     jan_cadas.config(background='#00BFFF', padx=10, pady=10)
     jan_cadas.title('Cadastro de alunos')
-    jan_cadas.iconbitmap(bitmap=r'tkinter\primeiro_app.py\tech.ico')
+    jan_cadas.iconbitmap(bitmap=r'Python\Primeiro_aplicativo_cadastro\tech.ico')
 
     info = Label(master=jan_cadas, text='Favor cadastrar nomes abaixo',background='#00BFFF', foreground='black', pady=10).grid(row=0, column=0)
 
